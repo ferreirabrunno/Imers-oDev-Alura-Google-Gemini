@@ -1,4 +1,4 @@
-## **Meta Livros: Sua Biblioteca Virtual Pessoal**
+## **Meta Livros: Sua Biblioteca Virtual Pessoal - Imersão dev Alura com Google Gemini**
 
 ### **O que é o Meta Livros?**
 
